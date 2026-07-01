@@ -1,0 +1,6 @@
+{
+  "name": "Khandala Valley Retreat",
+  "description": "Interactive website and AI-driven Virtual Concierge for the luxurious Khandala Valley Retreat, nestled in Kune Village, Khandala, Maharashtra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
